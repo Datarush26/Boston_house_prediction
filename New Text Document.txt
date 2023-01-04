@@ -1,0 +1,4 @@
+background-color: rgb(214, 14, 74);
+    border-radius: 20px;
+    border-color:whitesmoke;
+    size: 40px;
