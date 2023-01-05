@@ -25,7 +25,7 @@ def Predict():
     print(final_input)
     output=md.predict(final_input)[0]
     output2=round(output,3)
-    return render_template('UI.html',pred_text="We Predict the price will be {}".format(output2))
+    return render_template('UI.html',pred_text="We Predict the price will be : {}".format(output2))
 
 if __name__=="__main__":
     app.run(debug=True)

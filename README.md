@@ -13,10 +13,13 @@ command on powershell
 
 pip install viurtualenv
 
+'''
+
 virtualenv (enviroment_name)
 
-'''
 
 Go to that Specific folder and type command .\(enviromenmt_name)\Scripts\activate
 
-Here i also use postman to send the data to the app by ysing post request
+Here i also use postman to send the data to the app by using post request
+
+I have deployed the app on the heroku platform.which is a Platform As A Service Provider.
